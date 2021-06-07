@@ -1,19 +1,19 @@
 # Shank
 def add(a, b):
     answer = a + b
-    print("The answer is", answer)
+    print("The Addition of the given inputs is", answer)
 
 def sub(a, b):
     answer = a - b
-    print("The answer is", answer)
+    print("The Subtraction of the given inputs is", answer)
 
 def mul(a, b):
     answer = a * b
-    print("The answer is",answer)
+    print("The Multiplication of the given inputs is",answer)
 
 def div(a, b):
     answer = a / b
-    print("The answer is",answer)
+    print("The Division of the given inputs is,answer)
 
 print("Welcome to Calculator")
 
